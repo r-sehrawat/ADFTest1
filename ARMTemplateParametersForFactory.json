@@ -6,10 +6,10 @@
 			"value": "adfv2-cicd-target"
 		},
 		"AzureBlobStorage1_connectionString": {
-			"value": ""
+			"value": "DefaultEndpointsProtocol=https;AccountName=csg10032003168bc115;AccountKey=q0vTku9+lBElYhFWxtCgktkFa9SoTmNy6q9JVNzKjWjSRoDcCn4nEaq/Cg2VO0rnp76pm9HP8oG++AStaoQf4A==;EndpointSuffix=core.windows.net"
 		},
 		"AzureBlobStorage2_connectionString": {
-			"value": ""
+			"value": "DefaultEndpointsProtocol=https;AccountName=csg10032003168bc115;AccountKey=q0vTku9+lBElYhFWxtCgktkFa9SoTmNy6q9JVNzKjWjSRoDcCn4nEaq/Cg2VO0rnp76pm9HP8oG++AStaoQf4A==;EndpointSuffix=core.windows.net"
 		}
 	}
 }
